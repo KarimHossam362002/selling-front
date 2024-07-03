@@ -61,9 +61,3 @@ To view the website:
 
 No external libraries are required beyond standard HTML, CSS, and optionally JavaScript for enhanced functionality.
 
-### Credits
-
-This project is implemented by [Your Name] for demonstration purposes.
-
-For detailed implementation and technical details, please refer to the source code files included in this repository.
-
